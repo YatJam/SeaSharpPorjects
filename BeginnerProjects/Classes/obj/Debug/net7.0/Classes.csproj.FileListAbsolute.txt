@@ -1,0 +1,15 @@
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/bin/Debug/net7.0/Classes
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/bin/Debug/net7.0/Classes.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/obj/Debug/net7.0/Classes.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Classes/obj/Debug/net7.0/ref/Classes.dll
