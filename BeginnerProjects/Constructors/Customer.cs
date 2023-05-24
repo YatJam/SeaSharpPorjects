@@ -7,6 +7,9 @@
             public string Name;
             public List<Order> Orders;
 
+            public string FirstName;
+            public string LastName;
+
             //default parameterless constructor to allow freedom
             //to create objects without having to provide parameters
             public Customer()
