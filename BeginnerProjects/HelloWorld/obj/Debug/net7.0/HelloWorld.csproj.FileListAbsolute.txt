@@ -1,0 +1,15 @@
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
