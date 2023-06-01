@@ -1,0 +1,15 @@
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/bin/Debug/net7.0/Fields
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/bin/Debug/net7.0/Fields.deps.json
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/bin/Debug/net7.0/Fields.runtimeconfig.json
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/bin/Debug/net7.0/Fields.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/bin/Debug/net7.0/Fields.pdb
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/obj/Debug/net7.0/Fields.csproj.AssemblyReference.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/obj/Debug/net7.0/Fields.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/obj/Debug/net7.0/Fields.AssemblyInfoInputs.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/obj/Debug/net7.0/Fields.AssemblyInfo.cs
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/obj/Debug/net7.0/Fields.csproj.CoreCompileInputs.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/obj/Debug/net7.0/Fields.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/obj/Debug/net7.0/refint/Fields.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/obj/Debug/net7.0/Fields.pdb
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/obj/Debug/net7.0/Fields.genruntimeconfig.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Fields/Fields/obj/Debug/net7.0/ref/Fields.dll
