@@ -1,0 +1,15 @@
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/bin/Debug/net7.0/Methods
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/bin/Debug/net7.0/Methods.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/obj/Debug/net7.0/Methods.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/sausages/IdeaProjects/SeaSharpProjects/BeginnerProjects/Methods/Methods/obj/Debug/net7.0/ref/Methods.dll
